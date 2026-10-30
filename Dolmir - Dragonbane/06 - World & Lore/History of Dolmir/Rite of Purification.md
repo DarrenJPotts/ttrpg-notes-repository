@@ -1,0 +1,1 @@
+The religious movement used by the [[Order of the One God]] to remove all heretics and burn their sin away (via pyres)

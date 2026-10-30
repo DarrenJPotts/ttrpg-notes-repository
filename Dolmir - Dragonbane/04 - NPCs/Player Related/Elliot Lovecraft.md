@@ -1,0 +1,2 @@
+Loved [[Lyra Lovecraft]] but due to his childhood with his dad and his first Eldar love as a kid, he 'hurt' her to appease his dad and it scared him
+As an adult he found [[Lyra Lovecraft]] and fell for her but he found out about her deal and lost his way, falling into the pit of the [[Order of the One God]]
