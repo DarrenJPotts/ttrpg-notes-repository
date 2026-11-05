@@ -48,7 +48,7 @@ Copy this template for each new session. Follow the Lazy GM methodology: situati
 - **Hook:** (What pulls Anima into this situation?)
 - **Complication:** (What makes it harder for her specifically?)
 
-**[[03 - Characters/Player Characters/Lia and Lily]]**
+**[[Lia and Lily]]**
 - **Hook:** 
 - **Complication:** 
 

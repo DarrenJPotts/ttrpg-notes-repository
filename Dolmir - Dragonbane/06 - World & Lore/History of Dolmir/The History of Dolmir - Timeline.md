@@ -80,16 +80,23 @@ The Eldar, persecuted and mortal, flee from the Heartlands to their Great Woods 
 
 **O Records of the first blight disappear**
 The Faith of the One God, scrub the lands of records of the first blight, its start and its end.
+## Year 2119
+**O The Story of the Lady Saint**
+Lady Odellia teaches a new way for Eldar and the kin of Man to unite, challenging the persecution of the Rite of Purification.
+
+**O Capture and Execution of the Lady Saint**
+During the reign of King Corvin Umbar, the leaders of the Faith of the One God capture Lady Odellia and burn her at the stake in the depths of the Vale. Her teachings are suppressed, but survive among her followers.
+
 ## Year 2134 
 **O The Third King dies**
 King Corvin I Umbar, The Faithful, passes in his sleep at the age of 53. The rumor of the curse of the Umbar line begins. King Haldric Umbar, The Cursed, beings his reign.
 
 ## Year 2140 - 2143
 **O Haldar foresees the future**
-King Haldric's son, Haldar Umbar spends his childhood with night terrors of a woman saint, who will shatter the current line of Umbar. His father becoming increasingly paranoid.
+King Haldric's son, Haldar Umbar, spends his childhood with night terrors of the martyred Lady Odellia, whose legacy he foresees will shatter the current line of Umbar. His father becomes increasingly paranoid.
 
-**O The Story of the Lady Saint**
-Tales of the 'divine will' of the One God spread through the land. Lady Odellia, shows a new way for Eldar and the kin of Man to unite. 
+**O The Teachings of the Lady Saint Resurface**
+Suppressed tales of Lady Odellia spread once more through the land, preserving her vision of unity between Eldar and the kin of Man. 
 
 ## Year 2144 - 2149
 **O Death of the Paranoid King**
@@ -98,12 +105,11 @@ King Haldirc Umbar, The Cursed, dies. His paranoia and isolationism led to the e
 **O King Haldar the Dreamer chooses a new path**
 The child king chooses a different path to that of his forbearers, believing in the tales of the Lady Saint.  
 
-**O Capture and Execution of the Lady Saint**
-Despite the King's belief, the current leaders of the Faith of the One God, capture and execute by fire and stake Lady Odellia The Saint in the depths of the Vale. 
+
 
 ## Year 2150
 **O King Haldar reforms the Faith**
-King Haldar the Dreamer upon learning of the death of Lady Odellia, excommunicates the current leaders of the faith and naming Lady Odellia an official Saint of Dolmir. She becomes the forefront of the new reformation of the faith. 
+King Haldar the Dreamer, upon uncovering the truth of Lady Odellia's execution in 2119, excommunicates the current leaders of the Faith for upholding her persecution and suppressing her teachings. He names Lady Odellia an official Saint of Dolmir. Her teachings become the foundation of the reformation of the Faith. 
 
 # The Third Age 
 *Duration unknown*
@@ -120,7 +126,7 @@ The new line of Umbar is blessed with Twin sons, Vaelor and Halthor, at the Age 
 King Haldar the Dreamer dies at the age of 39 under mysterious circumstances.
 
 **O The story begins**
-The current campaign begins during the start of Spring, in the town of Ashveil.
+The current campaign begins during the start of Spring, in the town of Ashveil, fifty years after the burning of Saint Odellia.
 
 
 

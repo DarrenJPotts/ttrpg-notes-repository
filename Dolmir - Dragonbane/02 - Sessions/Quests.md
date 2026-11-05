@@ -62,7 +62,7 @@
 - Neutral ground with strict rules: **No one lays a hand on any woman of the house**
 
 **Work/Jobs at the Charm:**
-- [[Elenessa Vaeloriane]] and [[Lia]] have been tasked to work there under Ariel
+- [[Elenessa Vaeloriane]] and [[Lia and Lily|Lia]] have been tasked to work there under Ariel
 - Possible jobs include: protecting patrons, information gathering, attending the Guild house play at Triumph Amphitheatre
 
 **Key NPCs:**

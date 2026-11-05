@@ -16,21 +16,21 @@ Lia you enter into the Temple of the Fallen, that opens up into the grandiose st
 #### The Story of The Lady Saint
 You look over the seven panels, taking in the story they tell 
 
-I. In a field of long grass, a young child stands beneath looks towards a dying tree with golden lights piercing it's withered branches. Behind her a small church with the banners of the One hanging from it's trusses.
+**I.** In a field of long grass, a young child looks towards a dying tree. Golden light pierces its withered branches. Behind her stands a small church, the banners of the One hanging from its trusses.
 
-II. She stands on a hill, walking towards light while the church remains in the distance behind her
+**II.** Older now, she climbs a hill towards that same light. The church lies far behind her, its doors closed. She walks barefoot, carrying only a staff and a small bundle.
 
-III. Upon that journey she meets eldar of all kind
+**III.** Upon her journey she meets Eldar of many kinds. Beneath unfamiliar trees, they share bread beside a fire. One tends her wounded feet; another points towards a distant city. The golden light falls upon them all.
 
-IV. She stands before the King of Umbar, clad in armour and carrying a white standard. The combined kin of man before her 
+**IV.** She stands before the King of Umbar, clad in armour and carrying a white standard. The gathered kin of man stand behind her. At her side are the Eldar she met upon the road. The king leans forward upon his throne, one hand resting on an unsheathed sword.
 
-V. 
+**V.** Beneath the walls of Umbar, two armies face one another across a field of trampled grass. She stands between them, her white standard planted in the earth. Her sword lies at her feet. Along either battle line, a few have lowered their weapons; others still hold them ready.
 
-VI. 
+**VI.** The dying tree burns. Beneath its branches she stands with her arms raised, holding apart a curtain of flame. Men and Eldar pass behind her, carrying children and supporting the wounded. Her white standard has caught alight, but above her the golden light remains.
 
-VII. Her body stands burned in a field of green, but even burned it looks up to the light she had followed. Surrounding her, kin of all kind kneel, some cry with their hands in the air and the king bows before her.
+**VII.** Her body stands burned in a field of green, her face still lifted towards the light she followed. Around her, kin of every kind kneel. Some weep with their hands raised; others bow their heads. Before her, the King of Umbar kneels with his crown laid in the grass.
 
-#### First Mother Joan I 
+#### First Mother Joan Anabela Argona I 
 (Based on an older Liliana)
 If [[Lia and Lily]] take time to inspect the Temple, First Mother Joan I will come up to her and say, 
 _"It truly is something, is it not?"_ She says in a foreign accent (French Inspired). 
@@ -38,8 +38,14 @@ _"I cannot but help and stare each day, she was heroic"_
 
 An older woman stares at you with a smile Lia, she must be in her late 70s. 
 
-#### The Temple Exploration 
+_"Is there something that brings you here today my child? Any wisdom the Temple of the Fallen can guide you with?"_
 
+- She will ask that she seems nervous
+
+#### The Temple Exploration 
+- To the far right are tombs of the sanctum that is currently closed
+- In the centre are tombs of the Hathor family. The last one being Reindell's wife and kids whom he lost while young to the fever. 
+- To the left leads to the bell tower
 
 #### The Bell Tower
 In the top of the belltower on the Eastern side of the Temple of the Fallen stands a wooden door, your meeting place. Whatever you hope to accomplish might be waiting beyond the doorway. Do you step inside?

@@ -12,9 +12,9 @@
 | Character | Status | Notes |
 |---|---|---|
 | [[Anima Vossel]] | In Safehouse | Cursed by [[04 - NPCs/Player Related/Maya Serellye]] — hex slowly severing her from the Arcane. Under [[Altes Lesym\|Lesym's]] watch |
-| [[03 - Characters/Player Characters/Lia and Lily]] | In Safehouse | Lia hunting [[Elliot Lovecraft]]. Lily's form is slipping — hasn't told Lia yet |
+| [[Lia and Lily]] | In Safehouse | Lia hunting [[Elliot Lovecraft]]. Lily's form is slipping — hasn't told Lia yet |
 | [[Elenessa Vaeloriane]] | In Safehouse | Last of her house. Learning to fight |
-| [[03 - Characters/Player Characters/Garrick Stonebill]] | In Safehouse | Seeking to protect |
+| [[Garrick Stonebill]] | In Safehouse | Seeking to protect |
 | [[Clawbert Danfangle]] | In Safehouse | Delving into magic |
 
 ---

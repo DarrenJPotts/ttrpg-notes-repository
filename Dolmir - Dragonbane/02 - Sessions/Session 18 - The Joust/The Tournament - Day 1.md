@@ -13,7 +13,7 @@
 - [[Vaelor II]]'s ambassador + knights camp on the left
 - [[Halthor III]]'s ambassador + knights camp on the right
 - The Faith representatives (Cardinals, Inquisitors) sit front and center
-- [[Lady Ariel Enel]] and her court occupy a private box
+- [[Ariel Enel|Lady Ariel Enel]] and her court occupy a private box
 
 **Guild Stand** (Merchants, crafters, intelligencers)
 - [[Altes Lesym]] sits here, watching everyone
@@ -32,7 +32,7 @@
 
 ### **ROUND 1: Opening Matches**
 
-#### **Match 1: [[Sir Halvard Snow]] (Neutral) vs. Sir Gregor Vorn (Vaelor's Flag)**
+#### **Match 1: [[Halvard Snow|Sir Halvard Snow]] (Neutral) vs. Sir Gregor Vorn (Vaelor's Flag)**
 - **Halvard's colors:** Black and silver (House Snow — independent)
 - **Gregor's colors:** Gold and white (Faith / Vaelor's faction)
 - **Outcome:** Halvard wins 2-1 (spectacular joust, Halvard's superior horsemanship on display)
@@ -41,7 +41,7 @@
 
 ---
 
-#### **Match 2: Sir Thadden Kale (Halthor's Banner) vs. Sir Eirik Stoneheart (Great House — House Mirenhall, neutral leaning Halthor)**
+#### **Match 2: Sir Thadden the Yellow (Halthor's Banner) vs. Sir Eirik Stoneheart (Great House — House Mirenhall, neutral leaning Halthor)**
 - **Thadden's colors:** Purple and black (House Kale, Halthor's sworn)
 - **Eirik's colors:** Silver and green (House Mirenhall)
 - **Outcome:** Thadden wins 2-0 (brutal, efficient, shows training)
@@ -93,7 +93,7 @@
 **Rules:** Last knight standing wins. Swords, not lances. No killing, but injuries are expected.
 
 **Competitors who advance:**
-1. [[Sir Halvard Snow]]
+1. [[Halvard Snow|Sir Halvard Snow]]
 2. [[The Smiling Blade]]
 3. Sir Aldrick Thorne (House Thorne)
 4. Sir Thadden Kale (Halthor's knight)

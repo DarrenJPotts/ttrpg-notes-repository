@@ -13,7 +13,7 @@ Start here before each session:
 ## 📖 Run a Session
 
 **Active Sessions:**
-- **Session 6** (Current) — [[02 - Sessions/Session 6 - Joining the Ordo Magi/0. Prep]]
+- **Session 6** (Current) — [[Dolmir - Dragonbane/02 - Sessions/Session 6 - Joining the Ordo Magi/0. Prep|0. Prep]]
 - **Session 7** (Coming) — Prep as needed
 
 **Session Format:**
@@ -43,15 +43,15 @@ Start here before each session:
 
 **Player Characters:**
 - [[Anima Vossel]] — Eldar herbalist, cursed by Maya Serellye
-- [[03 - Characters/Player Characters/Lia and Lily]] — Elf & changeling pair, hunting for Elliot Lovecraft
+- [[Lia and Lily]] — Elf & changeling pair, hunting for Elliot Lovecraft
 - [[Elenessa Vaeloriane]] — Last of House Vaeloraine
-- [[03 - Characters/Player Characters/Garrick Stonebill]] — Mallard-kin protector
+- [[Garrick Stonebill]] — Mallard-kin protector
 - [[Clawbert Danfangle]] — Eldar beastkin, delving into magic
 
 **Heroic Paths:**
-- [[03 - Characters/Heroic Paths/The Unbroken Form]] — Fighter/Brawling
-- [[03 - Characters/Heroic Paths/The Twin Accord]] — Lia & Lily shared abilities
-- [[03 - Characters/Heroic Paths/The Green Wyrd]] — Anima's witcher-alchemy
+- [[Dolmir - Dragonbane/06 - Heroic Paths/The Form Unbroken.html|The Unbroken Form]] — Fighter/Brawling
+- [[Dolmir - Dragonbane/06 - Heroic Paths/Ithil'Anor  - Twin Shadow|The Twin Accord]] — Lia & Lily shared abilities
+- [[Dolmir - Dragonbane/06 - Heroic Paths/The Green Wyrd.html|The Green Wyrd]] — Anima's witcher-alchemy
 
 ---
 

@@ -33,7 +33,7 @@ One-liner reference table. Full details in [[04 - NPCs]].
 |---|---|---|
 | [[04 - NPCs/The Order of the One God/Inquisitors/The Smiling Blade\|The Smiling Blade]] | Inquisitor Templar | Dangerous, patient |
 | [[04 - NPCs/The Order of the One God/Inquisitors/Inquisitor Templar Sige\|Inquisitor Sige]] | Inquisitor | (add details) |
-| [[04 - NPCs/The Order of the One God/Brother Aemon\|Brother Aemon]] | Priest | (add details) |
+| [[Brother Aemon\|Brother Aemon]] | Priest | (add details) |
 | [[04 - NPCs/The Order of the One God/BBEG/Father Alexios Valon\|Father Alexios Valon]] | High Priest | The long game |
 
 ---
