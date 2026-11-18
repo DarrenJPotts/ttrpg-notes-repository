@@ -50,7 +50,7 @@ Start here before each session:
 
 **Heroic Paths:**
 - [[Dolmir - Dragonbane/06 - Heroic Paths/The Form Unbroken.html|The Unbroken Form]] — Fighter/Brawling
-- [[Dolmir - Dragonbane/06 - Heroic Paths/Ithil'Anor  - Twin Shadow|The Twin Accord]] — Lia & Lily shared abilities
+- [[Ithil'Anor  - Twin Shadow|The Twin Accord]] — Lia & Lily shared abilities
 - [[Dolmir - Dragonbane/06 - Heroic Paths/The Green Wyrd.html|The Green Wyrd]] — Anima's witcher-alchemy
 
 ---

@@ -1,12 +1,10 @@
-﻿# Heists — Dragonbane Quick Reference
-
 > [!info] House rules
 > A Blades in the Dark-inspired framework for Dragonbane. Position, effect, clocks, bargains, flashbacks, and the resistance option below are house rules. Use normal Dragonbane rules for combat, damage, armor, conditions, WP, and pushing rolls unless stated otherwise.
 
 ## 1. The Plan & Gear
 
 - Choose an approach: **Assault, Deception, Stealth, Magic, Social, or Transport**.
-- Name the key detail: entry point, disguise, contact, route, target, or magical method.
+- Name the key detail: entry point, disguise, contact, route, target, or magical method.s
 - Declare carried equipment and use normal encumbrance. There are no abstract load slots; conspicuous weapons and heavy gear affect access and suspicion.
 - Establish the objective and what success can realistically achieve before rolling.
 
@@ -18,12 +16,12 @@ The leader makes one relevant **skill roll** to determine the opening situation,
 - **Bane:** Strong security, poor information, unsuitable gear, or a major obstacle.
 - Apply normal boon/bane cancellation and condition modifiers.
 
-| Result | Starting situation |
-|---|---|
-| **Dragon (natural 1)** | **Controlled**, with an extra opportunity: ideal access, useful information, or an open escape route. |
-| **Success** | **Risky**, with the plan underway; **Controlled** if the established circumstances already justify it. |
-| **Failure** | **Risky** with an immediate obstacle, or **Desperate** if the obstacle is dangerous. |
-| **Demon (natural 20)** | **Desperate**, with an immediate serious complication: alarm, ambush, separation, or blocked retreat. |
+| Result                 | Starting situation                                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Dragon (natural 1)** | **Controlled**, with an extra opportunity: ideal access, useful information, or an open escape route.  |
+| **Success**            | **Risky**, with the plan underway; **Controlled** if the established circumstances already justify it. |
+| **Failure**            | **Risky** with an immediate obstacle, or **Desperate** if the obstacle is dangerous.                   |
+| **Demon (natural 20)** | **Desperate**, with an immediate serious complication: alarm, ambush, separation, or blocked retreat.  |
 
 Do not allow pushing the engagement roll: it summarizes circumstances rather than a single retryable action.
 
@@ -53,12 +51,12 @@ Do not require a clock for a simple obstacle that one successful action should r
 
 Roll **1d20 against the relevant skill**, using normal boons and banes.
 
-| Result | Resolution |
-|---|---|
-| **Dragon (natural 1)** | Succeed with a bonus: increase effect one step, gain an opportunity, or improve the next position. |
-| **Success (at or below skill)** | Achieve the declared effect without a new consequence from this roll. |
-| **Failure (above skill)** | No progress and a consequence; **or offer success at a cost**, which the player may accept or decline. |
-| **Demon (natural 20)** | Failure with a complication appropriate to the position. Cannot be pushed. |
+| Result                          | Resolution                                                                                             |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Dragon (natural 1)**          | Succeed with a bonus: increase effect one step, gain an opportunity, or improve the next position.     |
+| **Success (at or below skill)** | Achieve the declared effect without a new consequence from this roll.                                  |
+| **Failure (above skill)**       | No progress and a consequence; **or offer success at a cost**, which the player may accept or decline. |
+| **Demon (natural 20)**          | Failure with a complication appropriate to the position. Cannot be pushed.                             |
 
 **Success at a cost is the partial-success house rule:** for example, open the door but alert the guard, retrieve the ledger but leave evidence, or place the charge but lose the safe retreat. Do not invent a separate d20 partial-success band.
 

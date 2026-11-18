@@ -6,82 +6,74 @@ The saint's face is worn and distorted, as though several faces were pressed tog
 
 The pendant is always slightly cold to the touch.
 
----
-
-## Revealing Secrets
-
 When you spend a few hours staring into the pendant and listening to its whispers, name someone you know but on whom you have never used this power before. Then roll **MYTHS & LEGENDS**:
 
-**On a dragon:** The pendant grants you profound insight. The stones reveal a secret about them—one they guard carefully. You learn something that changes how you see them.
+**On a dragon:** The pendant grants you profound insight. The pendant reveals a secret about them—one they guard carefully. You learn something that changes how you see them.
 
-**On a success:** The stones reveal a secret about them; you learn something true but not deeply buried.
+**On a success:** The pendant reveals a secret about them; you learn something true but not deeply buried.
 
-**On a failure:** The stones reveal a secret, but you must first reveal a secret to the pendant (about your hopes, fears, regrets, or desires). The pendant demands a price.
+**On a failure:** The pendant reveals a secret, but you must first reveal a secret to the pendant (about your hopes, fears, regrets, or desires).
 
-**On a demon:** The pendant pries a secret from your mind, one you would have kept buried. You learn nothing of your target, but lose something of yourself.
+**On a demon:** The pendant pries a secret from your mind, one you would have kept buried. You learn nothing of your target, but lose something of yourself. The GM names a cherished memory you can no longer recall.
 
-When you reveal a secret to the pendant, or it pries one from your mind, mark 1:
+When you reveal a meaningful secret to the pendant, or it pries one from your mind, mark 1. The same secret cannot be offered twice:
 
-⬜️ ⬜️ ⬜️ ⬜️ ⬜️
+**0/3**
 
-When you mark the last circle, you unlock the mysteries of the pendant and can use **Shadow Magic** (see below).
+When you make the last mark, you unlock the mysteries of the pendant. Choose one **Shadow Magic** option and erase all the marks. Each time you make the third mark thereafter, gain another option. If you have all three options, mark a consequence instead.
 
----
+When a bound spirit escapes, cross off one of the Shadow Magic options; it is no longer available until the spirit is returned.
 
-## Shadow Magic
+## Abilities:
 
-When you call upon the shadows within the pendant, choose one effect:
+### SHADOW MAGIC
 
-- **Cloak of Shadows:** Cloak yourself in shadows and silence. You move unseen and unnoticed as long as you draw no attention and avoid the sun or sacred light.
+When you hold the Pendant and call out the shadows within, use an action and choose one unlocked thing which you wish to do:
 
-- **Shadow Sight:** Name someone you know or to whom you have an arcane link (hair, clothing, etc.). You can see them, hear them, and whisper to them as if from a nearby shadow.
+- Cloak yourself in shadows and silence, moving unseen and unnoticed as long as you draw no attention to yourself and avoid direct sunlight or sacred light. Attacking or directly affecting another creature ends the effect.
+- Name someone you know or to whom you have an arcane link (hair, clothing, or the like); you can see them, hear them, and whisper to them as if from a nearby shadow. There must be a shadow near them, and your own senses are elsewhere while you watch.
+- Name someone you can see within 10 meters; the nearby shadows ensnare them, doing no harm but hampering their sight and movement. Their movement is halved and they suffer BANE on attacks and AWARENESS rolls relying on sight. They can use an action to roll **STR**; a success ends the effect. Direct sunlight or sacred light also releases them.
 
-- **Shadow Snare:** Name someone you can see. The nearby shadows ensnare them, doing no harm but hampering their sight and movement.
+Then roll against **CON**.
 
-Then roll **CON**:
+**Dragon:** The effect manifests perfectly and lasts as long as you maintain it, with no strain.
 
-**On a dragon:** The effect manifests perfectly and lasts as long as you desire with no strain.
+**Success:** The effect lasts as long as you maintain it, but while maintaining it you suffer BANE on other CON and WIL rolls.
 
-**On a success:** The effect lasts as long as you maintain it, but you suffer **disadvantage** on all other rolls while maintaining it. You may only maintain one Shadow Magic effect at a time.
+**Failure:** Either mark a consequence and the effect lasts as on a success, or the effect flickers out before accomplishing anything useful (your choice which).
 
-**On a failure:** Choose one:
-- Mark a **Consequence** and the effect lasts as on a success
-- The effect flickers out after mere moments (your choice)
+**Demon:** The pendant writhes with malice. Mark a consequence. Ask the GM what the shadows do instead.
 
-**On a demon:** The pendant writhes with malice. The GM describes what happens. You likely mark a **Consequence**.
+You may only maintain one Shadow Magic effect at a time. Each use lasts no longer than one Stretch, and ends if you fall asleep, become unconscious, or release the pendant. Renewing an effect requires another action and roll.
 
----
+## Consequences:
 
-## Consequences of the Whispers
+When you mark a consequence, choose an available option with the GM. Each can be marked only as many times as indicated. If none remain available, the spirits escape together and the pendant becomes powerless.
 
-Each mark chips away at your humanity:
+**0/1 Silent Pendant:** The Pendant falls dormant and powerless. To awaken it again, the pendant must be touched to the lips of a dying creature and bathed in its final breath.
 
-**⬜️ Silent Pendant**
-The Pendant falls dormant and powerless. To awaken it again, the pendant must be touched to the lips of a dying creature and bathed in its final breath.
+**0/3 Escaped Spirit:** A spirit bound within the pendant escapes into the world. Cross off the Shadow Magic effect you just used. It cannot be used again until the spirit is hunted down and returned to its prison. Returning the spirit restores the effect but does not erase this consequence.
 
-**⬜️ Escaped Spirit**
-A spirit bound within the pendant escapes into the world. You lose access to one Shadow Magic option permanently—it cannot be used again until the spirit is hunted down and returned to its prison.
+**0/1 Eyes of Darkness:** Your eyes become completely black. You can see clearly even in total darkness, but all color fades to greyscale. Bright sunlight inflicts BANE on attacks and AWARENESS rolls relying on sight unless your eyes are shaded.
 
-**⬜️ Eyes of Darkness**
-Your eyes become completely black, pools of shadow. You can see clearly even in total darkness, but all color fades to greyscale. Bright sunlight blinds you and inflicts **disadvantage** on all rolls while exposed.
+**0/1 Shadow-Touched Flesh:** Your skin becomes corpse-pale or coal-black (your choice), cold as death. You are unharmed by natural cold, but direct sunlight scorches your flesh and inflicts BANE on STR and AGI rolls while your skin is exposed.
 
-**⬜️ Shadow-Touched Flesh**
-Your skin becomes corpse-pale or coal-black (your choice), cold as death. You are unharmed by natural cold, but direct sunlight scorches your flesh. When exposed to sunlight, you suffer **disadvantage** on STR and AGI rolls.
+**0/1 Nightmares of the Deep:** Your sleep fills with dreadful visions. The first time you rest for a Shift each session, roll against **WIL**:
 
-**⬜️ Nightmares of the Deep**
-Your sleep fills with dreadful visions. Whenever you rest for a shift, roll **WIL**:
+**Dragon:** Your nightmares reveal a useful secret or omen determined by the GM. You recover normally.
 
-- **On a dragon:** Your nightmares reveal a useful secret or omen—the GM tells you something true.
-- **On a success:** You rest uneasily but recover normally.
-- **On a failure:** You gain no recovery from the rest.
-- **On a demon:** You gain no recovery and wake with a compulsion toward darkness.
+**Success:** You rest uneasily but recover normally.
 
-**Additional Consequence (if marked again):**
+**Failure:** You recover normally, but wake Disheartened.
 
-**⬜️ Whispers in the Soul**
-The spirits take root within your mind. The GM may tempt or compel you toward dark deeds. If you resist, roll **WIL**:
+**Demon:** You gain no recovery and wake with a compulsion toward darkness. The GM tells you what the spirits want.
 
-- **On a dragon:** You shake off the influence immediately and clearly.
-- **On a success:** You shake off the influence but feel its pull.
-- **On a failure:** You struggle briefly before regaining control.
-- **On a demon:** You lose yourself entirely. When you awaken, the GM tells you what you have done.
+**0/1 Whispers in the Soul:** The spirits take root within your mind. Once per session, the GM may tempt you toward a dark deed or strange compulsion. If you resist, roll against **WIL**:
+
+**On a dragon:** You shake off the influence immediately and clearly. You glimpse what the spirit truly wants.
+
+**On a success:** You shake off the influence but feel its pull.
+
+**On a failure:** You retain control, but lose 1D6 WP. If this reduces you to 0 WP, you also become Disheartened.
+
+**On a demon:** You lose yourself entirely for a brief scene, no longer than one Stretch. When you awaken, the GM tells you what you have done. The spirit pursues its own purpose rather than deliberately killing you or attacking your companions.

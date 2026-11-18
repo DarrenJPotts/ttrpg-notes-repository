@@ -91,4 +91,4 @@ _Army of the Voluntaries_
 #### Secrets and Clues
 - The blight only spreads at night
 - The Investigations often point to tainted provisions or tonics (such as corrupted Twilight Milk) distributed through charity or soup kitchens
-- Lia's [[Twisted Spear]] allows her to see the spirits of the corrupted dead who give small clues. 
+- Lia's [[The Twisted Bow of Ithil]] allows her to see the spirits of the corrupted dead who give small clues. 
