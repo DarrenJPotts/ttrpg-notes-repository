@@ -1,94 +1,277 @@
-> “What the forest buries, we teach to bloom.”
+> *"What the forest buries, we teach to bloom."*
 
-Black Blood Alchemy is the deliberate cultivation of corruption. Its practitioners distil tainted blood into salts, oils and hungry condensates that stain living flesh, foul provisions and seed places with darkness. They do not heal the sick or cleanse the afflicted. They manufacture the affliction.
+Black Blood Alchemy is the deliberate cultivation of corruption. Its practitioners distil tainted blood into salts, oils and unnatural condensates that infect living flesh, poison provisions and seed the land with Blight.
 
-The progression is **extract, infect, concentrate**: crude reagents spread temporary corruption; refined doses drive it deeper; mastery produces true Vile Water.
+Its progression follows three principles:
 
-This path uses **Alchemy, alchemical tools and physical sources of corruption**, not Healing. Each rank requires the previous rank and a separate Heroic Path advancement. These are proposed Dragonbane homebrew mechanics inspired by Symbaroum's corruption, not a direct conversion of its rules. The dedicated passive applies only if this is your dedicated path, following [[Heroic Paths]].
+- **Extract:** Harvest corruption from tainted materials.
+- **Infect:** Spread corruption through alchemical preparations.
+- **Cultivate:** Concentrate corruption into permanent mutations and powerful substances.
 
-## Corruption and Exposure
+Each rank requires the previous rank and a separate [[Heroic Paths|Heroic Path]] advancement.
 
-- **Temporary corruption** adds to the victim's corruption total while present. For this path's playtest baseline, it fades at the end of the scene; outside a scene, after a stretch away from further exposure. Fresh exposure delays recovery, not the expiry of individual preparations.
-- **Permanent corruption** does not disappear through ordinary rest. Apply the campaign's agreed corruption thresholds and consequences to both kinds. This note does not establish new thresholds, automatic possession or compulsory character loss; agree those rules before play.
-- An exposed living creature rolls **WIL** to resist each preparation as described below. This requires no action. Armor does not protect against ingestion or inhalation; sealed protection or not breathing can prevent the relevant exposure. Undead and constructs are unaffected by these preparations unless the GM establishes a specific susceptibility beforehand.
-- A creature can gain corruption from **one Novice preparation and one Journeyman dose per scene**. Further doses of the same rank have no additional effect on it that scene. This includes the alchemist; the separate Master crafting catastrophe still applies normally.
-- Corruption is not ordinary poison or HP damage. Poison immunity alone does not prevent it; damage reduction cannot absorb it. These preparations grant no Experience or healing.
 
-## Dedicated Passive — Black Vein Scholar
+## Corruption Rules
 
-With suitable tools and ten minutes studying blood, water or organic remains, you can determine whether the sample carries corruption. A successful **Alchemy** roll reveals one useful property or handling hazard, chosen by the GM. This does not identify its source, reveal memories or measure a creature's corruption total.
+These rules apply to PCs, NPCs and enemies.
 
-Your properly sealed samples remain stable during ordinary travel. Broken containers and careless handling remain dangerous. Distillation and spreading corruption belong to the active ranks and do not require this passive.
+### Corruption Thresholds
 
-## Novice — Seeds of the Blight
+| Total Corruption | Effect |
+| --- | --- |
+| **0: Uncorrupted** | No effects. |
+| **1–2: Tainted** | Bane on next STR, CON or WIL roll. |
+| **3–4: Afflicted** | Bane on STR and CON rolls. |
+| **5–6: Blighted** | Bane on all physical skill rolls. Cannot recover HP through rest. |
+| **7+: Overwhelmed** | Trigger Corruption Overflow. |
 
-- **Requirement:** Alchemy 13, alchemical tools, access to corrupted blood or tainted organic material
-- **Willpower:** 2 per preparation
-- **Preparation:** Ten minutes
+Only the highest applicable penalty applies. A Tainted penalty is applied once per exposure that brings the creature into that stage, rather than repeatedly on every turn.
 
-Distil one suitable sample into **one black reagent**, choosing its form below and rolling Alchemy. Failure consumes the sample and Willpower. The GM establishes a source's usable yield before harvesting; repeated rolls cannot extract an unlimited supply from the same remains.
+### Temporary and Permanent Corruption
 
-| Preparation     | Delivery and effect                                                                                                                                                                                                                                                                                                                            |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Grave Salt**  | As an action, taint one serving of food or drink within reach. The first living creature to consume it rolls WIL or gains **1 temporary corruption**. Dividing the serving does not create additional doses.                                                                                                                                   |
-| **Wound Ichor** | As an action, coat one edged or piercing weapon, or one piece of ammunition. The next hit that causes a living target to lose HP consumes the coating; the target rolls WIL or gains **1 temporary corruption**. The coating otherwise expires after the combat or ten minutes, whichever comes first. It adds no damage.                      |
-| **Blight Fume** | Break the vessel as an action to fill a **2-metre-radius area** within reach with black vapour until the end of your next turn. A living creature breathing it on release or first entering it rolls WIL once for that vessel or gains **1 temporary corruption**. Allies and the alchemist are not exempt. The vapour does not obscure sight. |
+**Temporary Corruption**
 
-Reagents visibly darken, smell of wet iron or leave oily traces; they are not automatically undetectable. Discovering a concealed preparation uses the normal circumstances and skill rules.
+- Caused by ordinary Blight exposure, corrupted substances and unstable magic.
+- Disappears after one stretch without further exposure.
+- Counts towards all Corruption Thresholds.
 
-**Limit:** Three unused reagents at once; each spoils after one shift. Using one consumes it. They are also components for Journeyman, but are not Vile Water.
+**Permanent Corruption**
 
-## Journeyman — The Hungry Condensate
+- Caused by concentrated corruption, forbidden rituals, cursed artifacts and Corruption Overflow.
+- Cannot be removed through ordinary healing or rest.
+- Counts towards all Corruption Thresholds.
+- Can eventually cause permanent mutations and transformation.
 
-- **Requirement:** Alchemy 15, Novice, a successful experiment spreading corruption through a distilled reagent
-- **Willpower:** 3 per dose
-- **Ingredients:** Two unused black reagents
-- **Preparation:** One stretch of active distillation
+### Corruption Overflow
 
-Render the reagents into **one dose of Vile Concentrate** with a successful Alchemy roll. Failure consumes the ingredients and Willpower. Success produces a black, mercury-like fluid that fumes outside glass or crystal.
+When a creature's total Corruption first reaches **7 or more**, it must immediately roll **WIL**.
 
-Choose Grave Salt, Wound Ichor or Blight Fume as its delivery form, using the Novice delivery rules. An exposed creature that fails its WIL roll gains **1D4 temporary corruption instead of 1**. It is a Journeyman dose for the per-scene exposure limit, not an additional Novice dose.
+- **Success:** No additional effect.
+- **Failure:** Convert **1D4 Temporary Corruption** into Permanent Corruption and trigger a Blight Crisis.
 
-The corruption manifests as blackened veins, a distorted shadow or the smell of decay. These signs reveal the taint but add no unwritten combat penalties.
+Conversion cannot exceed the Temporary Corruption currently held. It does not increase the creature's total corruption.
 
-### Root the Stain
+A creature can trigger Overflow only once per scene, including when already above 7.
 
-Before brewing, you may accept **1 permanent corruption** to make the dose a rooting preparation. A victim failing its exposure roll gains **1 permanent corruption instead of 1D4 temporary corruption**. The cost is paid even if brewing fails or the dose is never used. A successful resistance roll prevents the victim's corruption, not your cost.
+### Blight Crisis (1D6)
 
-A rooting dose uses the same Journeyman exposure limit; it is not a way to inflict repeated permanent corruption on one target in a single scene. State the permanent stakes before use in play.
+| D6 | Effect |
+| --- | --- |
+| 1 | **Spasms:** Lose next turn. |
+| 2 | **Blood Eruption:** Suffer 1D6 damage, ignoring armour. |
+| 3 | **Unnatural Hunger:** Attack nearest creature next turn, if able. |
+| 4 | **Flesh Mutation:** Next physical attack deals +1D4 damage; gain 1 Permanent Corruption. |
+| 5 | **Withering:** Become Exhausted and Sickly until combat ends. |
+| 6 | **Blight Awakens:** Gain 1 Permanent Corruption and a lasting mutation determined by the GM. |
 
-### Tainted Ground
+The additional Permanent Corruption from a crisis does not trigger another Overflow in the same scene.
 
-Instead of exposing creatures, spend ten minutes pouring one dose into a patch of soil, a small pool or harvested remains no more than **2 metres across**. It becomes visibly blighted for one shift: roots blacken, water films over or flesh refuses to rot cleanly. The first living creature to drink from it, eat its affected growth or handle it bare-skinned rolls WIL or gains **1D4 temporary corruption**; the dose is then exhausted. A rooting dose instead inflicts its **1 permanent corruption** on a failed roll. This counts as exposure to a Journeyman dose.
 
-This seeds a contaminated site, not a self-replicating epidemic. It cannot corrupt a river, an entire settlement or new victims indefinitely without a separately agreed ritual.
+#### Dedicated Passive:
+**Black Vein Scholar**
 
-**Limit:** One unused concentrate at a time, spoiling one shift after refining. It grants no artifact powers and cannot replace the rare source required for true Vile Water.
+You have learned to recognise and safely handle corrupted material.
 
-## Master — Tears of the Abyss
+After ten minutes examining blood, water or organic remains, you can determine whether it carries corruption.
 
-- **Requirement:** Alchemy 17, Journeyman, a recovered Vile Water manuscript and a significant successful experiment with its precursors
-- **Preparation:** One full day of active work
+A successful **Alchemy** roll reveals one useful property, such as its potency, stability or handling hazards.
 
-You can perform the **Master Alchemist's role** in creating true [[Dolmir - Dragonbane/09 - Major Arcane/Vial of Black Blood|Vile Water]]. You have learned to retain the darkness itself rather than merely its useful residues.
+You gain a boon on Alchemy rolls made to safely harvest corrupted materials.
 
-This does **not** grant Master Artifact Crafter expertise. You must work with someone who has it, or acquire it separately. The manuscript, qualifying managaal blood source and full procedure in the vial note remain required. Ordinary corrupted blood, black reagents and Vile Concentrate cannot replace that source.
+Properly sealed samples remain stable during ordinary travel.
 
-The full batch passes through the sediment and concentrate stages as part of the day's work; do not also charge the lesser preparations' WP or brewing rolls. It consumes the qualifying source and produces only the vial recipe's normal yield: **10 drops from an adult managaal or 5 from a spawn**, on successful completion.
 
-The vial procedure currently uses **Cunning** tests and **Resolute** terminology. Before attempting it in Dragonbane, the GM must establish the equivalent source threshold and skill for each crafting role. This rank uses **Alchemy** for the alchemist's test; the artifact crafter's skill must be agreed before resources are committed. Both tests must succeed. Failed distillation consumes the source and produces no usable Vile Water.
+#### Novice:
+**Seeds of the Blight**
 
-Retain the recipe's catastrophe: **a natural 20 on either crafting test gives that test's practitioner 1D12 permanent corruption**. If one person fills both roles, they make both tests and risk each separately.
+*“Even the smallest seed may poison the harvest.”*
 
-Finished drops use the artifact's binding, powers and corruption costs exactly as written. Mastery grants no immunity to what you have made.
+Requirement: Alchemy 13, alchemical tools, corrupted blood or organic material
+Willpower: 2 points
+Preparation: Ten minutes
 
-> The final distillation does not remove the hunger. It gives the hunger a vessel.
+Distil a suitable corrupted sample into **one Black Reagent** by making an **Alchemy** roll.
 
-## Ingredients, Vessels and Consequences
+Failure consumes the ingredients and WP.
 
-- Label every harvested source and preparation. A sample used in one recipe cannot also fuel another; concentrating or dividing a batch never multiplies its yield.
-- Raw samples and refined preparations require sealed glass, crystal or another GM-approved vessel. Ordinary sealing contains them; it does not neutralise them.
-- The GM establishes unusual harvesting and exposure hazards before the player commits. A failed brewing roll alone adds no corruption unless a rule explicitly says otherwise.
-- This path cannot extract permanent corruption from a person to bottle it, cleanse a victim or transfer its own corruption costs to someone else.
-- Victims do not become harvestable supplies of reagents merely because a preparation corrupted them. A qualifying new source requires a separate, GM-established development.
-- True Vile Water retains the artifact's finite drops and explicit corruption costs. Acquiring another qualifying source remains a substantial undertaking, not ordinary foraging.
+Choose one of the following preparations.
+
+**Black Reagents**
+
+| Preparation | Delivery | Effect on failed WIL |
+| --- | --- | --- |
+| **Grave Salt** | Contaminate one serving of food or drink. | Gain **1 Temporary Corruption** and become Sickly. |
+| **Wound Ichor** | Coat one edged/piercing weapon or ammunition. The next hit causing HP loss exposes the target. | Gain **1 Temporary Corruption** and become Exhausted. |
+| **Blight Fume** | Break a vessel to create a 2-metre-radius cloud lasting until the end of your next turn. | Gain **1 Temporary Corruption** and become Disheartened. |
+
+**Application:** Using or applying a reagent requires an action.
+
+A creature makes one **WIL** roll per exposure. On success, it resists both the corruption and condition.
+
+Conditions imposed by these preparations last until the end of the scene unless removed earlier through normal Dragonbane rules.
+
+Wound Ichor expires after ten minutes or the end of combat. Blight Fume affects creatures breathing the vapour when released or first entering it. Each creature rolls only once per cloud.
+
+**Limits**
+
+- Maximum **three unused Black Reagents** at once.
+- Preparations spoil after one shift.
+- A creature can be affected by only one Novice preparation per scene.
+- Novice preparations cannot directly inflict Permanent Corruption, but can trigger Overflow.
+- Reagents do not inflict additional HP damage.
+
+
+#### Journeyman:
+**The Hungry Condensate**
+
+*“Corruption is not destruction. It is life freed from its intended shape.”*
+
+Requirement: Alchemy 15, Seeds of the Blight, successful experimentation with corrupted reagents
+Willpower: 3 points
+Ingredients: Two unused Black Reagents
+Preparation: One stretch
+
+You have learned to concentrate unstable corruption into a potent substance known as **Vile Concentrate**.
+
+Consume the ingredients and roll **Alchemy**.
+
+On success, create one dose. Choose one of the following applications.
+
+**Concentrated Infection**
+
+Choose Grave Salt, Wound Ichor or Blight Fume as the delivery method.
+
+The victim rolls **WIL** as normal.
+
+**On failure:**
+
+- Gains **1D4 Temporary Corruption**.
+- Suffers a bane on its next two STR, CON or WIL rolls.
+- May trigger Corruption Overflow.
+
+The dose replaces the Novice preparation's effects rather than adding to them.
+
+**Root the Stain**
+
+You may deliberately sacrifice your own vitality to make the corruption permanent.
+
+Before brewing, accept **1 Permanent Corruption**.
+
+Your Vile Concentrate becomes a **Rooting Dose**.
+
+On a failed WIL roll, the victim gains **1 Permanent Corruption instead of 1D4 Temporary Corruption**, and suffers the normal two-roll penalty from Concentrated Infection.
+
+The alchemist takes the corruption even if brewing fails.
+
+Permanent Corruption inflicted this way can contribute towards Overflow.
+
+**Blighted Transmutation**
+
+Rather than poisoning flesh, you force corruption to empower it.
+
+Create a **Mutagenic Ichor**, which a willing creature can consume or inject as an action.
+
+The recipient immediately gains **2 Temporary Corruption** and chooses one effect:
+
+| Mutation | Effect |
+| --- | --- |
+| **Blackened Muscles** | Boon on next STR-based attack or skill roll. |
+| **Predator's Senses** | Boon on next Awareness or Spot Hidden roll. |
+| **Hardened Flesh** | Reduce next physical damage taken by 1D4 after armour. |
+| **Unnatural Reflexes** | Boon on next Evade roll. |
+
+The mutation lasts until used or until the end of the scene.
+
+Gaining corruption from Mutagenic Ichor can trigger Overflow.
+
+A creature can benefit from only one Mutagenic Ichor per scene.
+
+**Tainted Ground**
+
+Spend ten minutes pouring Vile Concentrate into a patch of soil, stagnant water or organic remains up to 2 metres across.
+
+The area becomes visibly corrupted for one shift.
+
+The first creature to consume or directly handle the contaminated material rolls **WIL**.
+
+- **Failure:** Gain 1D4 Temporary Corruption.
+- **Rooting Dose:** Gain 1 Permanent Corruption instead.
+
+The preparation is exhausted after this exposure, regardless of the WIL result.
+
+Tainted Ground cannot automatically spread into a self-sustaining epidemic.
+
+**Limits**
+
+- Maximum **one unused Vile Concentrate** at a time.
+- Concentrate spoils after one shift.
+- A creature can be affected by only one Journeyman preparation per scene.
+- Mutagenic Ichor counts towards this limit.
+- Permanent Corruption from Root the Stain does not expire.
+
+
+#### Master:
+**Tears of the Abyss**
+
+*“The final distillation does not remove the hunger. It gives the hunger a vessel.”*
+
+Requirement: Alchemy 17, The Hungry Condensate, a recovered Vile Water manuscript and a successful experiment with its precursors
+Preparation: One full day
+
+You have mastered the art of preserving corruption in its most concentrated form.
+
+You can fulfil the Master Alchemist's role in creating **true Vile Water**, according to the separate [[Dolmir - Dragonbane/09 - Major Arcane/Vial of Black Blood|Vial of Black Blood]] artifact rules.
+
+**Requirements**
+
+- A recovered Vile Water manuscript.
+- Qualifying managaal blood.
+- Appropriate alchemical tools and vessels.
+- A Master Artifact Crafter, unless you possess the expertise yourself.
+
+Ordinary corrupted blood, Black Reagents and Vile Concentrate cannot replace the required source.
+
+**Crafting**
+
+The creation requires two successful tests:
+
+1. **Alchemy**: Refining and stabilising the corruption.
+2. **Artifact Crafting**: Binding the substance within its vessel.
+
+The GM establishes the Artifact Crafting skill or equivalent before attempting the ritual.
+
+Failure consumes the source without producing usable Vile Water.
+
+**Successful yield:**
+
+- Adult managaal: **10 drops**.
+- Managaal spawn: **5 drops**.
+
+**Catastrophic Failure**
+
+A natural 20 on either crafting test causes the practitioner responsible to gain **1D12 Permanent Corruption**.
+
+This can immediately trigger Corruption Overflow.
+
+If one practitioner performs both roles, each test carries its own risk.
+
+The finished Vile Water retains all powers, binding requirements and corruption costs established in its artifact description.
+
+Mastery offers no immunity to the substance.
+
+
+## General Rules and Restrictions
+
+- Corruption is supernatural and is not ordinary poison or HP damage.
+- Armour does not protect against ingestion, inhalation or corruption transferred through a successful wound.
+- Creatures immune to conventional poison are not necessarily immune to corruption.
+- Undead and constructs are immune unless the GM establishes otherwise.
+- All ingredients must originate from genuine corrupted sources.
+- Each harvested source has a finite yield determined by the GM.
+- One sample cannot be reused across multiple recipes.
+- Alchemical corruption does not automatically create new harvestable sources.
+- Black Blood Alchemy cannot cleanse corruption or transfer it out of another creature.
+- Permanent Corruption cannot be healed through ordinary rest.
+- Reaching high levels of Permanent Corruption may cause additional mutations or eventual transformation into an Abomination, as determined by the campaign's corruption rules.
+
+> The greatest tragedy of Black Blood Alchemy is not that it turns men into monsters, but that some men willingly choose to become them.

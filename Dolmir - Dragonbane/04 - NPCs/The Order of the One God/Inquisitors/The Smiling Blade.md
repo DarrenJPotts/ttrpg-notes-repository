@@ -12,123 +12,63 @@
 	- He will line the Valehall exterior gates with the force of the Order and execute members of Ashveil unless the accused exit the city
 
 ---
+### The Smiling Blade STATS
 
-## ABILITIES & MECHANICS
-
-#### Combat Abilities
-
-**The Duel's Curse**
-- Can only be permanently killed in a proper, formal duel (Duelist's Code observed)
-- If killed any other way (assassination, mob combat, execution), the Blight resurrects him within 24 hours
-- Knows this about himself; uses it as psychological weapon
-- In a duel he's vulnerable but *expects* to fight fairly
-
-**Blade Mastery** (Master)
-- Fights with twin blades (longswords or equivalent)
-- Attacks with both blades simultaneously: rolls twice for combat, chooses higher result
-- Can parry/deflect multiple attacks in one round
-- Favors precise, elegant strikes over brute force
-
-**Unlife Resilience**
-- Does not need to breathe, eat, sleep, or rest
-- Takes half damage from mundane weapons (not magically enhanced)
-- Immune to poison, disease, aging
-- Advantage on Vigor tests to resist environmental hazards (cold, fire, etc.)
-- Cannot be fatigued or exhausted in normal sense
-
-**Chilling Presence**
-- Those who spend extended time near him (more than a few minutes) feel wrongness
-- Rolls Presence; success causes Unease or minor fear in weaker-willed NPCs
-- Animals avoid him
-- Creates psychological pressure in negotiations (disadvantage on Resolve tests against him)
-
-#### Leadership & Command
-
-**The Smile Commands**
-- Leads Order forces with absolute authority
-- Can coordinate large military operations without visible communication
-- Black Templars follow his orders without question
-- Rolls Command for large-scale tactics; success means flawless execution
-
-**Tactical Mastery**
-- Plans operations with meticulous detail
-- Sees several moves ahead (like a chess master)
-- Prepares contingencies and backup plans
-- On arrival at a location, knows optimal positions for siege/occupation within hours
-
-#### Special Abilities
-
-**The Blight Remembers**
-- Can sense the Blight's influence across Valehall
-- Knows where the Blight is strongest/weakest
-- Can commune with the Blight for visions or guidance (GM discretion)
-- As Blight spreads, his power grows slightly
-
-**Memory of Knights**
-- Remembers centuries of combat, strategy, politics
-- Has fought legendary warriors; knows their tricks
-- Can recognize fighting styles and predict opponents' moves
-- Advantage on rolls to understand tactics or recognize trained fighters
-
-**Cruel Grace**
-- Offers choices to his enemies: surrender, flee, or die
-- When he makes such an offer, he *honors* it (twisted honor code)
-- Uses this to psychologically break resistance
-- If someone accepts his terms, he keeps his word (but the terms are always harsh)
-
-**The White Slate Vision**
-- Has a mystical goal: "blood rain down white slate"
-- This is half-prophecy, half-obsession
-- Believes Valehall's conquest will fulfill this somehow
-- Makes decisions that support this goal even if tactically questionable
-
----
-
-## COMBAT STATS (For Running Encounters)
-
-| Stat | Rating | Notes |
-|---|---|---|
-| **Might** | 4 | Centuries of strength, undead resilience |
-| **Agility** | 4 | Twin-blade master, precise and quick |
-| **Intellect** | 3 | Strategic mind, understands people |
-| **Presence** | 3 | Commands fear and respect; unnerving charm |
-| **Vigor** | 4 | Undead, doesn't tire or break easily |
-| **Resolve** | 4 | Centuries of discipline, unshakeable will |
-
-| Skill | Rating |
+| Stat | Value |
 |---|---|
-| **Swordfighting** | 4 (Master) |
-| **Command** | 3 (Major) |
-| **Tactics** | 3 (Major) |
-| **Presence** | 2 (Competent) |
-| **Hunting** | 2 (Competent) |
+| Type | Undead knight (monster) |
+| Ferocity | 2 |
+| Size | Normal |
+| Movement | 10 |
+| Armour | 6; reduced to 4 after his rival hits him, until the start of his next turn |
+| HP | 48 |
+| WP | — |
+| Skills | AWARENESS 14, INSIGHT 14, PERSUASION 16 |
+| Languages | Common; the Order's liturgical tongue |
 
----
+**Running him:** Draw two initiative cards. On each turn he moves and makes one monster attack. Attacks automatically hit unless defended against as specified. Armour reduces damage normally unless stated otherwise. A turn means one of his initiative cards, not an entire round. Apply boons and banes using normal Dragonbane rules.
 
-## WEAKNESSES
+#### Stand Before Me — Rival
+At the start of each of his turns, choose one enemy he can see within 20 metres as his **rival**. If any visible enemies damaged him since his previous turn, choose the one who dealt the most total damage during that interval; break ties randomly. Otherwise he chooses freely. That creature remains his rival until his next turn.
 
-- **The Duel Clause**: Can be permanently killed in a formal duel. He *honors* this code, so a challenger who forces proper duelist's terms has a real chance.
-- **Blight Dependence**: If removed from the Blight's influence entirely (geographically impossible in Dolmir, but magically possible), he weakens.
-- **The White Slate Obsession**: Will sometimes make tactically questionable decisions if they serve his vision.
-- **Cruelty & Honor Conflict**: His simultaneous cruelty and chivalry sometimes work against him (offers merciful options when ruthlessness would be simpler).
-- **Recognizable**: The smile, the twin blades, the bearing—he's not subtle. Enemies can recognize him.
+- **A worthy wound:** When his rival damages him with an attack, his Armour drops to 4 and he cannot use **Contemptuous Parry** until his next turn starts. Apply the reduced Armour only after resolving the triggering attack.
+- **Beneath me:** If the outgoing rival did not damage him with an attack during their rivalry, his damaging attacks inflict an additional D4 damage until his next turn starts. This bonus does not stack; it can be renewed. Check this before choosing his new rival. Do not grant it on his first turn of the encounter.
 
----
+#### Traits
+- **Never Kneels:** Boon on rolls to resist being knocked prone. Effects that allow no resistance roll work normally.
+- **Refusal of Defeat — once per encounter:** After failing a resistance roll, he may choose to succeed instead. Does not affect attack rolls, HP loss, or the duel curse.
+- **Unlife:** Does not breathe, eat, or sleep; immune to poison and disease. No additional weapon resistance: his Armour, HP, and parry represent his resilience.
+- **The Duel's Curse:** If destroyed outside a proper, mutually accepted formal duel, the Blight restores him after 24 hours. Defeat in a proper duel is permanent. Establish the terms openly before combat; neither side may receive outside assistance.
 
-## ENCOUNTER DESIGN
+#### Monster Attacks — D6
+Roll once on each turn. If an attack has no eligible target, use **Regal Step** instead.
 
-**As a Solo Threat**:
-- 1v1 duel: Party has real chance if they can force Duel's Code
-- Assassination/ambush: Nearly impossible (unlife resilience, can't be killed except in duel)
-- Direct combat (multiple vs. him): He escapes/retreats, uses Black Templars to cover
+| D6  | Attack                                                                                                                                                                                                                                                                                                 |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1–2 | **Crowned Blades.** He attacks one enemy within 2 metres with his twin swords: **2D8 slashing damage**. Can be dodged or parried. Treat the blades as one attack, not two separate hits.                                                                                                               |
+| 3   | **Scornful Gaze.** One enemy he can see within 20 metres suffers **2D6 damage, ignoring armour**. The target may avoid the effect entirely with a successful WIL roll; it cannot be dodged or parried. On a failure, the target also suffers a bane on their next dodge or parry before his next turn. |
+| 4   | **Kneel — twice per encounter.** One enemy other than his rival within 10 metres must succeed on a WIL roll or fall prone. No damage. Cannot be dodged or parried. If both uses are spent, use Crowned Blades instead.                                                                                 |
+| 5   | **Regal Step.** He moves up to 6 metres without triggering free attacks, then uses Crowned Blades if an enemy is within reach. This movement is additional to his normal movement.                                                                                                                     |
+| 6   | **The Crown's Contempt.** He uses Crowned Blades against up to two different enemies within reach. Resolve each attack separately; each can be dodged or parried normally. If only one enemy is in reach, make only one attack.                                                                        |
 
-**As a Commander**:
-- Never fights alone in sieges; always has backup forces
-- Uses party as small pieces in larger strategy
-- Fights only when it serves his goals, retreats when it doesn't
+#### Contemptuous Parry — Once per Round
+When a creature **other than his rival** hits him with a melee weapon attack, reduce its damage by **D8 + 3**, to a minimum of 0, before applying Armour. This is a special free defence: it requires neither a skill roll nor spending his action. It cannot stop magic or attacks that cannot be parried. Refresh at the start of each round.
 
-**Dialogue/Negotiation**:
-- Speaks in riddles and philosophy
-- Never loses temper; always maintains the smile
-- Offers choices (surrender, flee, fight) to break resistance
-- Honors his word, which makes him predictable to those who understand him
+#### Cinematic Actions — Each Once per Encounter
+These special triggered effects cost no action and do not consume an initiative card. Resolve them after the triggering attack. 
+
+**Look at Him.** The first time his rival damages him with an attack, his crown or mask cracks. He points at the rival:
+> “Watch what happens to those who dare call themselves my equal.”
+
+Every other enemy within 4 metres must make a STR roll. On a failure, they suffer **D8 damage** and are pushed 4 metres directly away from him. On a success, they suffer half damage, rounded up, and are not pushed. Armour applies. The rival is unaffected.
+
+**You Want My Attention? You Have It.** The first time a non-rival damages him during an active rivalry, he moves up to 10 metres toward that attacker without triggering free attacks. If he reaches melee range, he makes **one Crowned Blades attack** against them. It can be dodged or parried normally. That creature suffers a bane on its next attack against him before his next turn. His current rival remains unchanged.
+
+> [!warning] Encounter tuning
+> This full version is intended for a party fight. For a one-on-one formal duel, use **Ferocity 1, HP 32, Armour 4**, disable Contemptuous Parry and both cinematic actions, and replace Crown's Contempt with Crowned Blades. The rival mechanic still applies, but a rival's hit reduces Armour to **2** instead of 4. These are starting values, not a guarantee of a fair duel; adjust to the challenger and telegraph his abilities before a lethal challenge.
+
+#### Conversion Notes
+- D&D AC, ability modifiers, saving throw DCs, proficiency bonus, and challenge rating have no direct equivalents here.
+- Multiattack and legendary actions are represented by Ferocity and the attack table; do **not** add three attacks or extra legendary turns on top.
+- Scornful Gaze's reaction denial becomes a defensive bane rather than removing the ability to defend entirely.
+- The second screenshot includes a separate **Legendary Resistance (2/Day)** entry referring to a “Raven Shepherd.” It appears to be a copy/paste error; this conversion uses Refusal of Defeat only, rather than stacking both abilities.

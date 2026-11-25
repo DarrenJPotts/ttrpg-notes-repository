@@ -1,3 +1,45 @@
+### Scoreboard
+ARCHERY
+Lia - 3 marks
+Khakal - 2 makrs
+Mera - 1 mark
+
+BRAWLS
+Elenessa - 3 marks
+Borun - 2 mark
+Pella - 1 mark 
+
+COURTESY 
+Mera - 3 
+Amina - 2
+Talla  - 1 
+
+HUNT
+Anima - 3 
+Mera - 2
+Clawbert - 2 
+Elenessa - 1 
+Lia - 1
+
+MOCK SIEGE
+Anima - 3 
+Mera - 0
+Clawbert - 1
+Bornun - 2 
+Lia - 3
+
+DUELS
+Lia - 1 Mark
+Anima - 1 Mark
+
+
+TOTAL
+Lia - 9
+Elenessa - 4 
+Anima - 9
+Clawbert - 3 
+Mera - 4
+Borun - 4 
 
 ### Day 1: The Jousts
 [[1. The Jousts]]
@@ -75,12 +117,10 @@ Bows with two banes; use the pre-agreed completion of the incomplete scoring tex
 | Stomath Okell |     - |         - |    0 |
 | Khakal        |     6 |         5 |   10 |
 | Mera Norwe    |    10 |         5 |    0 |
-|               |       |           |      |
-|               |       |           |      |
-|               |       |           |      |
 Lia - 3 marks
 Khakal - 2 makrs
 Mera - 1 mark
+
 #### Competition 2 - The Brawls
 [[Dolmir - Dragonbane/02 - Sessions/Session 20 - Thabor Down Under/The Tournaments/2.0 The Brawls|The Brawls — bracket, rules, and opponents]]
 
@@ -88,8 +128,8 @@ Mera - 1 mark
 
 | Bout | Round       | Fighters             | Winner |
 | ---- | ----------- | -------------------- | ------ |
-| A    | Semi-final  | Elenessa vs Pella    |        |
-| B    | Semi-final  | Borun vs Dorrik      |        |
+| A    | Semi-final  | Elenessa vs Pella    | E      |
+| B    | Semi-final  | Borun vs Dorrik      | B      |
 | C    | Third place | Loser A vs Loser B   |        |
 | D    | Final       | Winner A vs Winner B |        |
 
@@ -105,7 +145,7 @@ Nerris - 2 makrs
 Borun - 1 mark
 
 #### Competition 3 - The Trial of Courtesy
-[[Dolmir - Dragonbane/02 - Sessions/Session 20 - Thabor Down Under/The Tournaments/3.0 The Trial of Courtesy|The Trial of Courtesy — cases, NPCs, events, and scoring]]
+[[The Trial of Courtesy|The Trial of Courtesy — cases, NPCs, events, and scoring]]
 
 Peck offers contestants the lord's chair for three rounds: **Common Dealings** (the injured ox), **Law and Mercy** (the poached deer), and **War and Honour** (prisoners at the ford).
 
